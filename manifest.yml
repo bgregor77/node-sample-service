@@ -1,0 +1,6 @@
+---
+applications:
+- name: mbt-sample-service
+  command: node app.js
+  env:
+    LOGLEVEL: error
